@@ -1,0 +1,7 @@
+<?php
+namespace Something\{{ name }};
+
+Class {{ name }} extends Model
+{
+
+}
