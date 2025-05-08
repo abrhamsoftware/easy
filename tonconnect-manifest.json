@@ -1,7 +1,5 @@
 {
-    "url": "https://abrhamsoftware.github.io/",                        // required
-    "name": "abrhamsoftware",                      // required
-    "iconUrl": "https://ton.org/download/ton_symbol.png",               // required
-    // "termsOfUseUrl": "<terms-of-use-url>",     // optional
-    // "privacyPolicyUrl": "<privacy-policy-url>" // optional
+    "url": "https://abrhamsoftware.github.io",           
+    "name": "AbrhamSoftware",
+    "iconUrl": "https://ton.org/download/ton_symbol.png",              
 }
